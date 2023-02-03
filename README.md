@@ -20,7 +20,7 @@
 
 <p align="left">  <h3><b> Lista - Note Keeper</b></h3>
 <p><a href="https://lista-nine-self.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/lista">Code</a></p>
-  <p>Our sticky note app, built with React and Tailwind, helps you stay on top of important notes and reminders. Accessible from any device, it's user-friendly and organized, making it the perfect solution for keeping your life in order.</p>
+  <p>A note app, built with React and Tailwind, helps you stay on top of important notes and reminders. Accessible from any device, it's user-friendly and organized, making it the perfect solution for keeping your life in order.</p>
   
   <p align="left">  <h3><b> Libroo - Book Finder App</b></h3>
   <p> <a href="https://macagr17.github.io/Book-Project/">Live Demo</a> | <a href="https://github.com/macagr17/Book-Project">Code</a></p>
