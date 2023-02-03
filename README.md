@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macagr17&show_icons=true&locale=en&layout=compact" alt="macagr17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macagr17&" alt="macagr17" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macagr17&show_icons=true&locale=en" alt="macagr17" /></p>
