@@ -22,7 +22,7 @@
 <p align="center">
 <br>
 <a href="https://linkedin.com/in/mark-john-aguirre"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:markjohnaguirre@gmail.com?subject=Hi%2Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:markjohnaguirre@gmail.com?subject=Hi%20Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macagr17&show_icons=true&locale=en" alt="macagr17" /></p>
