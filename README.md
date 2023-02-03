@@ -18,7 +18,7 @@
 <h3 align="left">Projects:</h3>
 <p align="left"> 
 
-<p align="left">  <p><strong> Lista - Note Keeper <strong> <a href="">Live Demo</a>| <a href="">Code</a>  </p>
+<p align="left">  <p><b> Lista - Note Keeper    </b> <a href="">Live Demo</a> | <a href="">Code</a>  </p>
    <br />
   <p>Our sticky note app helps you keep track of important notes, accessible from any device. User-friendly and organized, it's the perfect solution for staying on top of your thoughts and reminders. Let's start keeping your life organized.</p>
    
@@ -44,7 +44,7 @@
 <a href="https://linkedin.com/in/mark-john-aguirre"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:markjohnaguirre@gmail.com?subject=Hi%20Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <br/>
-<a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><strong>Download CV<strong></a>
+<a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><b>Download CV</b></a>
 
   
   <br/> 
