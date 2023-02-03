@@ -19,27 +19,17 @@
 <p align="left"> 
 
 <p align="left">  <p><b> Lista - Note Keeper      </b> <a href="https://lista-nine-self.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/lista">Code </a> </p>
-<p><i>Built with ReactJS, Tailwind CSS</i></p>
-  <p>Our sticky note app helps you keep track of important notes, accessible from any device. User-friendly and organized, it's the perfect solution for staying on top of your thoughts and reminders. Let's start keeping your life organized.</p>
+  <p>Our sticky note app, built with React and Tailwind, helps you stay on top of important notes and reminders. Accessible from any device, it's user-friendly and organized, making it the perfect solution for keeping your life in order.</p>
+  
+  <p align="left">  <p><b> Libroo - Book Finder App     </b> <a href="https://macagr17.github.io/Book-Project/">Live Demo</a> | <a href="https://github.com/macagr17/Book-Project">Code </a> </p>
+  <p>a new book finder app built with JavaScript, CSS, and HTML. The app leverages the power of the Google Books API, connecting seamlessly through Axios and JSON, to bring you the latest and greatest in book discovery. With its user-friendly interface and intuitive navigation, our book finder app is the perfect solution for all your reading needs.</p>
 
 <p align="left">  <p><b> Bag Corner - Ecommerce FrontEnd App     </b> <a href="">Live Demo</a> | <a href="https://github.com/macagr17/react-BagCorner-project">Code </a> </p>
-  <p>Introducing a new e-commerce solution featuring a clean, efficient code for seamless navigation and a superior shopping experience.</p>
- 
+  <p>Introducing a new e-commerce solution built with React and Tailwind. Our front-end features clean, efficient code for seamless navigation and a superior shopping experience.</p>
 
    </p>
   
-  
-  
-  
-  
-  
-
-</p>
-
-
-
-
-
+ 
 <br />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
