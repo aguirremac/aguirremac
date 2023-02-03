@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mac 👋.</h1>
 <h3 align="center">I'm a licensed civil engineer with six years of experience in the construction industry. But now, I'm taking my career in a new direction by fully committing to the tech industry. Since October, I've been self-studying web development and honing my skills in this field. I'm eager to apply my drive for success and my passion for technology to make a meaningful impact in the field of web development.</h3>
 
-- 🌱 I’m currently learning **React JS, with the goal of eventually expanding my skillset to include backend development and become a full-stack developer.**
+- 🌱 I’m currently focusing **on learning React. However, I recognize the importance of having a full understanding of both the front-end and back-end aspects of web development. That's why I have my sights set on expanding my skillset to include the MERN stack, encompassing MongoDB, Express, React, and Node.js. Becoming a full-stack developer is my ultimate career goal, and I'm excited to continue my learning journey in the tech industry.**
 
 - ⚡ Fun facts: **My passion for film extends beyond just watching them. I've also taken the time to learn video editing, combining my love for storytelling with my technical skills.**
 
