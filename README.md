@@ -41,7 +41,7 @@
 <a href="mailto:markjohnaguirre@gmail.com?subject=Hi%20Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <br/>
 <p><b>Download CV</b></p>
-<p> <a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><img src="https://pngimage.net/wp-content/uploads/2018/05/download-button-png-green-1.png" alt="css3" width="25" height="25"/></a></p>
+<p> <a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><img src="https://freesvg.org/img/download_button_2.png" alt="css3" width="25" height="25"/></a></p>
   
   
 
