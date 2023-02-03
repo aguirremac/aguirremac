@@ -15,10 +15,10 @@
 
 <br/> 
 
-<h3 align="left">Projects:</h3>
+<h2 align="left">Projects:</h2>
 <p align="left"> 
 
-<p align="left">  <h4><b> Lista - Note Keeper</b></h4>
+<p align="left">  <h3><b> Lista - Note Keeper</b></h3>
 <p><a href="https://lista-nine-self.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/lista">Code</a></p>
   <p>Our sticky note app, built with React and Tailwind, helps you stay on top of important notes and reminders. Accessible from any device, it's user-friendly and organized, making it the perfect solution for keeping your life in order.</p>
   
@@ -40,8 +40,8 @@
 <a href="https://linkedin.com/in/mark-john-aguirre"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:markjohnaguirre@gmail.com?subject=Hi%20Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <br/>
-<p><b>Download CV</b></p>
-<h3> <a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><img src="https://freesvg.org/img/download_button_2.png" alt="css3" width="150" height="150"/></a></h3>
+<p><b>Download CV</b>  <a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><img src="https://freesvg.org/img/download_button_2.png" alt="css3" width="100" height="100"/></a></p>
+
   
   
 
