@@ -19,10 +19,11 @@
 <p align="left"> 
 
 <p align="left">  <p><b> Lista - Note Keeper      </b> <a href="https://lista-nine-self.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/lista">Code </a> </p>
-  <p>Our sticky note app helps you keep track of important notes, accessible from any device. User-friendly and organized, it's the perfect solution for staying on top of your thoughts and reminders. Let's start keeping your life organized.<i>Built with ReactJS, Tailwind CSS</i></p>
+<p><i>Built with ReactJS, Tailwind CSS</i></p>
+  <p>Our sticky note app helps you keep track of important notes, accessible from any device. User-friendly and organized, it's the perfect solution for staying on top of your thoughts and reminders. Let's start keeping your life organized.</p>
 
 <p align="left">  <p><b> Bag Corner - Ecommerce FrontEnd App     </b> <a href="">Live Demo</a> | <a href="https://github.com/macagr17/react-BagCorner-project">Code </a> </p>
-  <p>Introducing a new e-commerce solution featuring a clean, efficient code for seamless navigation and a superior shopping experience.<i>Built with ReactJS, Tailwind CSS</i></p>
+  <p>Introducing a new e-commerce solution featuring a clean, efficient code for seamless navigation and a superior shopping experience.</p>
  
 
    </p>
