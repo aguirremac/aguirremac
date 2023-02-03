@@ -18,15 +18,15 @@
 <h3 align="left">Projects:</h3>
 <p align="left"> 
 
-<p align="left">  <p><b> Lista - Note Keeper</b></p>
+<p align="left">  <h4><b> Lista - Note Keeper</b></h4>
 <p><a href="https://lista-nine-self.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/lista">Code</a></p>
   <p>Our sticky note app, built with React and Tailwind, helps you stay on top of important notes and reminders. Accessible from any device, it's user-friendly and organized, making it the perfect solution for keeping your life in order.</p>
   
-  <p align="left">  <h2><b> Libroo - Book Finder App</b></h2>
+  <p align="left">  <h4><b> Libroo - Book Finder App</b></h4>
   <p> <a href="https://macagr17.github.io/Book-Project/">Live Demo</a> | <a href="https://github.com/macagr17/Book-Project">Code</a></p>
   <p>A new book finder app built with JavaScript, CSS, and HTML. The app leverages the power of the Google Books API, connecting seamlessly through Axios and JSON, to bring you the latest and greatest in book discovery. With its user-friendly interface and intuitive navigation, our book finder app is the perfect solution for all your reading needs.</p>
 
-<p align="left">  <p><b> Bag Corner - Ecommerce FrontEnd App</b></p>
+<p align="left">  <h4><b> Bag Corner - Ecommerce FrontEnd App</b></h4>
 <p> <a href="">Live Demo</a> | <a href="https://github.com/macagr17/react-BagCorner-project">Code</a></p>
   <p>A new e-commerce solution built with React and Tailwind. Our front-end features clean, efficient code for seamless navigation and a superior shopping experience.</p>
 
@@ -41,7 +41,7 @@
 <a href="mailto:markjohnaguirre@gmail.com?subject=Hi%20Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <br/>
 <p><b>Download CV</b></p>
-<h3> <a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><img src="https://freesvg.org/img/download_button_2.png" alt="css3" width="50" height="50"/></a></h3>
+<h3> <a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><img src="https://freesvg.org/img/download_button_2.png" alt="css3" width="150" height="150"/></a></h3>
   
   
 
