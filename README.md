@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Mac.👋</h1>
-<h3 align="center">I'm a licensed civil engineer with six years of experience in the construction industry. But now, I'm taking my career in a new direction by fully committing to the tech industry. Since October, I've been self-studying web development and honing my skills in this field. I'm eager to apply my drive for success and my passion for technology to make a meaningful impact in the field of web development.</h3>
+<h3 align="center">I'm a licensed Civil Engineer with 6 years of experience in the construction industry. But now, I'm taking my career in a new direction by fully committing to the tech industry. Since October, I've been self-studying web development and honing my skills in this field. I'm eager to apply my drive for success and my passion for technology to make a meaningful impact in the field of web development.</h3>
 
 <br/> 
 
