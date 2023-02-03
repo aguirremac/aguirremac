@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Mac 👋.</h1>
+<h1 align="center">Hi , I'm Mac.👋</h1>
 <h3 align="center">I'm a licensed civil engineer with six years of experience in the construction industry. But now, I'm taking my career in a new direction by fully committing to the tech industry. Since October, I've been self-studying web development and honing my skills in this field. I'm eager to apply my drive for success and my passion for technology to make a meaningful impact in the field of web development.</h3>
 
 <br/> 
@@ -37,7 +37,7 @@
 <a href="https://linkedin.com/in/mark-john-aguirre"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:markjohnaguirre@gmail.com?subject=Hi%20Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <br/>
-<a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><b><img src="https://cdn-icons-png.flaticon.com/128/4208/4208397.png" alt="css3" width="40" height="40"/> Download CV</b></a>
+<a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><b><img src="https://cdn-icons-png.flaticon.com/128/4208/4208397.png" alt="css3" width="30" height="30"/> Download CV</b></a>
   
   
 
