@@ -18,7 +18,7 @@
 <h3 align="left">Projects:</h3>
 <p align="left"> 
 
-<p align="left">  <p><b> Lista - Note Keeper    </b> <a href="">Live Demo</a> | <a href="">Code</a>  </p>
+<p align="left">  <p><b> Lista - Note Keeper    </b> <a href="https://lista-nine-self.vercel.app/">( Live Demo</a> | <a href="https://github.com/macagr17/lista">Code )</a>  </p>
    <br />
   <p>Our sticky note app helps you keep track of important notes, accessible from any device. User-friendly and organized, it's the perfect solution for staying on top of your thoughts and reminders. Let's start keeping your life organized.</p>
    
