@@ -40,7 +40,8 @@
 <a href="https://linkedin.com/in/mark-john-aguirre"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:markjohnaguirre@gmail.com?subject=Hi%20Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <br/>
-<p><b>Download CV</b>  <a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><img src="https://cdn-icons-png.flaticon.com/128/2381/2381981.png" alt="css3" width="25" height="25"/></a></p>
+<p><b>Download CV</b></p>
+<p> <a href="https://drive.google.com/u/0/uc?id=1jQ8YP1sJAf9iowxMJ7rL4bYN7RBLP-TH&export=download"><img src="https://pngimage.net/wp-content/uploads/2018/05/download-button-png-green-1.png" alt="css3" width="25" height="25"/></a></p>
   
   
 
