@@ -16,10 +16,11 @@
 <br/> 
 
 <h3 align="left">Projects:</h3>
-<div align="left"> 
+<p align="left"> 
 
- <p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noref > Lista | Note Keeper </a>
+ <p align="left">  <a> Lista | Note Keeper </a>
    <br />
+  <p>Our sticky note app helps you keep track of important notes, accessible from any device. User-friendly and organized, it's the perfect solution for staying on top of your thoughts and reminders. Let's start keeping your life organized.</p>
    
 
    </p>
@@ -30,7 +31,7 @@
   
   
 
-</div>
+</p>
 
 
 
