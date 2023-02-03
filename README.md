@@ -15,6 +15,29 @@
 
 <br/> 
 
+<h3 align="left">Projects:</h3>
+<div align="left"> 
+
+ <p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noref > Lista | Note Keeper </a>
+   <br />
+   
+
+   </p>
+  
+  
+  
+  
+  
+  
+
+</div>
+
+
+
+
+
+<br />
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 <p align="left">
 <a href="https://linkedin.com/in/mark-john-aguirre"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
