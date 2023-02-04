@@ -27,7 +27,7 @@
   <p>A new book finder app built with JavaScript, CSS, and HTML. The app leverages the power of the Google Books API, connecting seamlessly through Axios and JSON, to bring you the latest and greatest in book discovery. With its user-friendly interface and intuitive navigation, our book finder app is the perfect solution for all your reading needs.</p>
 
 <p align="left">  <h3><b> Bag Corner - Ecommerce FrontEnd App</b></h3>
-<p> <a href="">Live Demo</a> | <a href="https://github.com/macagr17/react-BagCorner-project">Code</a></p>
+<p> <a href="https://bagcorner-macagr17.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/react-BagCorner-project">Code</a></p>
   <p>An e-commerce solution with clean, efficient code and seamless navigation, providing a superior shopping experience. Built using React and TailwindCSS, our front-end technology, utilizing functional components and hooks, delivers an unparalleled user experience.</p>
 
    </p>
