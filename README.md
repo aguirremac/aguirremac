@@ -20,7 +20,7 @@
 
 <p align="left">  <h3><b> Lista - Note Keeper</b></h3>
 <p><a href="https://lista-nine-self.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/lista">Code</a></p>
-  <p>A note app, built with React and Tailwind, helps you stay on top of important notes and reminders. Accessible from any device, it's user-friendly and organized, making it the perfect solution for keeping your life in order.</p>
+  <p>A user-friendly and organized note app that helps you stay on top of important notes and reminders, accessible from any device, makes it the perfect solution for keeping your life in order. Built using React JS, utilizing hooks and functional components, and styled with Tailwind CSS.</p>
   
   <p align="left">  <h3><b> Libroo - Book Finder App</b></h3>
   <p> <a href="https://macagr17.github.io/Book-Project/">Live Demo</a> | <a href="https://github.com/macagr17/Book-Project">Code</a></p>
@@ -28,7 +28,7 @@
 
 <p align="left">  <h3><b> Bag Corner - Ecommerce FrontEnd App</b></h3>
 <p> <a href="">Live Demo</a> | <a href="https://github.com/macagr17/react-BagCorner-project">Code</a></p>
-  <p>A new e-commerce solution built with React and Tailwind. Our front-end features clean, efficient code for seamless navigation and a superior shopping experience.</p>
+  <p>An e-commerce solution with clean, efficient code and seamless navigation, providing a superior shopping experience. Built using React and TailwindCSS, our front-end technology, utilizing functional components and hooks, delivers an unparalleled user experience.</p>
 
    </p>
   
