@@ -23,7 +23,7 @@
   <p>A user-friendly and organized note app that helps you stay on top of important notes and reminders, accessible from any device, makes it the perfect solution for keeping your life in order. Built using React JS, utilizing hooks and functional components, and styled with Tailwind CSS.</p>
   
   <p align="left">  <h3><b> Libroo - Book Finder App</b></h3>
-  <p> <a href="https://macagr17.github.io/Book-Project/">Live Demo</a> | <a href="https://github.com/macagr17/Book-Project">Code</a></p>
+  <p> <a href="https://aguirremac.github.io/Book-Project/">Live Demo</a> | <a href="https://github.com/macagr17/Book-Project">Code</a></p>
   <p>A new book finder app built with JavaScript, CSS, and HTML. The app leverages the power of the Google Books API, connecting seamlessly through Axios and JSON, to bring you the latest and greatest in book discovery. With its user-friendly interface and intuitive navigation, our book finder app is the perfect solution for all your reading needs.</p>
 
 <p align="left">  <h3><b> Bag Corner - Ecommerce FrontEnd App</b></h3>
