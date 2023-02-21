@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mac. 👨‍💻</h1>
-<h3 align="center">I'm a licensed Civil Engineer with 6 years of experience in the construction industry. But now, I'm taking my career in a new direction by fully committing to the tech industry. Since November, I've been self-studying web development and honing my skills in this field. I'm eager to apply my drive for success and my passion for technology to make a meaningful impact in the field of web development.</h3>
+<h3 align="center">As a dedicated problem-solver with a passion for constructing and developing innovative solutions, I am committed to continuous learning and self-improvement in order to become a game-changer in the industry. Seeking a challenging and dynamic role where I can utilize my skills and knowledge to drive impactful results and make a meaningful contribution.</h3>
 
 <br/> 
 
-- 🌱 I’m currently focused on **learning React JS, with the goal of eventually expanding my skillset to include backend development and become a full-stack developer**
+- 🌱 I’m currently focused on **learning TypeScript, with the goal of eventually expanding my skillset to include backend development and become a full-stack developer**
 
 - ⚡ Fun fact: **My passion for film extends beyond just watching them. I've also taken the time to learn video editing, combining my love for storytelling with my technical skills.**
 
@@ -40,7 +40,7 @@
 <a href="https://linkedin.com/in/mark-john-aguirre"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:markjohnaguirre@gmail.com?subject=Hi%20Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <br/>
-<a href="https://drive.google.com/uc?export=download&id=1o7xD4aqnvbYLD9czOtvkiFQc-FLtnQ9M"><b>Download CV</b></a>
+<a href="https://drive.google.com/uc?export=download&id=1sVUBll0FYGhmSuCgdIlFiuGqNMiIBaVn"><b>Download CV</b></a>
 
   
   
