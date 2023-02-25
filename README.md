@@ -20,7 +20,9 @@
 
 <p align="left">  <h3><b> Lista - Note Keeper</b></h3>
 <p><a href="https://lista-macagr17.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/lista">Code</a></p>
-  <p>A user-friendly and organized note app that helps you stay on top of important notes and reminders, accessible from any device, makes it the perfect solution for keeping your life in order. Built using React JS, utilizing hooks and functional components, and styled with Tailwind CSS.</p>
+  <p>A personal notes management web application that was built using ReactJS, TailwindCSS, React Router, and
+leverages functional components and hooks, as well as Firebase authentication and database integration for
+secure note-taking.</p>
   
   <p align="left">  <h3><b> Libroo - Book Finder App</b></h3>
   <p> <a href="https://aguirremac.github.io/Book-Project/">Live Demo</a> | <a href="https://github.com/macagr17/Book-Project">Code</a></p>
