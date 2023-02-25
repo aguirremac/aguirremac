@@ -28,9 +28,9 @@ secure note-taking.</p>
   <p> <a href="https://aguirremac.github.io/Book-Project/">Live Demo</a> | <a href="https://github.com/macagr17/Book-Project">Code</a></p>
   <p>A new book finder app built with JavaScript, CSS, and HTML. The app leverages the power of the Google Books API, connecting seamlessly through Axios and JSON, to bring you the latest and greatest in book discovery. With its user-friendly interface and intuitive navigation, our book finder app is the perfect solution for all your reading needs.</p>
 
-<p align="left">  <h3><b> Bag Corner - Ecommerce FrontEnd App</b></h3>
-<p> <a href="https://bagcorner-macagr17.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/react-BagCorner-project">Code</a></p>
-  <p>An e-commerce solution with clean, efficient code and seamless navigation, providing a superior shopping experience. Built using React and TailwindCSS, our front-end technology, utilizing functional components and hooks, delivers an unparalleled user experience.</p>
+<p align="left">  <h3><b> Portfolio</b></h3>
+<p> <a href="https://macagr-portfolio.vercel.app/">Live Demo</a> | <a href="">Code</a></p>
+  <p>This modern portfolio showcases my work as a web developer, built with Framer Motion and TypeScript. I designed the portfolio with a modern and visually appealing aesthetic, using dynamic animations and transitions to create an engaging user experience.</p>
 
    </p>
   
@@ -42,7 +42,7 @@ secure note-taking.</p>
 <a href="https://linkedin.com/in/mark-john-aguirre"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:markjohnaguirre@gmail.com?subject=Hi%20Mac"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <br/>
-<a href="https://drive.google.com/uc?export=download&id=1sVUBll0FYGhmSuCgdIlFiuGqNMiIBaVn"><b>Download CV</b></a>
+<a href="https://drive.google.com/file/d/1E-tHpLgyQxONDOsgW7EWNqxaz4qKl70k/view?usp=sharing"><b>Download CV</b></a>
 
   
   
