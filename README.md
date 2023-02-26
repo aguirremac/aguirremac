@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mac. 👨‍💻</h1>
-<h3 align="center">As a dedicated problem-solver with a passion for constructing and developing innovative solutions, I am committed to continuous learning and self-improvement in order to become a game-changer in the industry. Seeking a challenging and dynamic role where I can utilize my skills and knowledge to drive impactful results and make a meaningful contribution.</h3>
+<h3 align="center">As a dedicated problem-solver with a passion for constructing and developing innovative solutions, I am committed to continuous learning and self-improvement in order to become a game-changer in the industry.</h3>
 
 <br/> 
 
