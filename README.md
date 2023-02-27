@@ -19,7 +19,7 @@
 <p align="left"> 
 
 <p align="left">  <h3><b> Lista - Note Keeper</b></h3>
-<p><a href="https://lista-macagr17.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/lista">Code</a></p>
+<p><a href="https://lista-note-keeper.vercel.app/">Live Demo</a> | <a href="https://github.com/macagr17/lista">Code</a></p>
   <p>A personal notes management web application that was built using ReactJS, TailwindCSS, React Router, and
 leverages functional components and hooks, as well as Firebase authentication and database integration for
 secure note-taking.</p>
