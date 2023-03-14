@@ -3,7 +3,7 @@
 
 <br/> 
 
-- 🌱 I’m currently focused on **learning TypeScript, with the goal of eventually expanding my skillset to include backend development and become a full-stack developer**
+- 🌱 I’m currently focused on **learning Vue.js, with the goal of eventually expanding my skillset to include backend development and become a full-stack developer**
 
 - ⚡ Fun fact: **My passion for film extends beyond just watching them. I've also taken the time to learn video editing, combining my love for storytelling with my technical skills.**
 
