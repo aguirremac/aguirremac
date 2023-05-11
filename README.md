@@ -3,7 +3,7 @@
 
 <br/> 
 
-- 🌱 I’m currently working as a **Vue.js/Nuxt Developer, I develop and maintain modern and dynamic websites. **
+- 🌱 I’m currently working as a **Vue.js / Nuxt Developer, I develop and maintain modern and dynamic websites.**
 
 - ⚡ Fun fact: **My passion for film extends beyond just watching them. I've also taken the time to learn video editing, combining my love for storytelling with my technical skills.**
 
