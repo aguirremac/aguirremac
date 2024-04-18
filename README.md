@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Mac. 👨‍💻</h1>
-<h3 align="center">As a dedicated problem-solver with a passion for constructing and developing innovative solutions, I am committed to continuous learning and self-improvement in order to become a game-changer in the industry.</h3>
+<h3 align="center">I want to use my talent in problem-solving and love for new ideas to make cool stuff. I'm all about learning and getting better. My aim is to write code that's easy to understand, safe, and can be kept up-to-date. I believe in breaking things down into smaller, manageable parts to make them work better.</h3>
 
 <br/> 
 
 - 🌱 I’m currently working as a **Vue.js / Nuxt Developer, I develop and maintain modern and dynamic websites.**
-
-- ⚡ Fun fact: **My passion for film extends beyond just watching them. I've also taken the time to learn video editing, combining my love for storytelling with my technical skills.**
 
 <br/> 
 
